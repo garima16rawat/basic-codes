@@ -1,0 +1,12 @@
+Total bytecount:1795
+Files list:
+--------------
+append.py
+create.py
+for_deleting.py
+my.txt
+read.py
+read_another.py
+solution.py
+test.txt
+write.py

@@ -1,0 +1,6 @@
+f=open("test.txt","a")
+f.write("i like your family")
+f.close()
+f=open("test.txt","r")
+print(f.read())
+f.close()
